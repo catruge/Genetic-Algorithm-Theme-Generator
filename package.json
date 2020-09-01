@@ -12,9 +12,49 @@
   "contributes": {
     "themes": [
       {
-        "label": "RL Theme",
+        "label": "RL Preview Theme",
         "uiTheme": "vs-dark",
         "path": "./themes/rl-themer-color-theme.json"
+      },
+      {
+        "label": "RL A Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/a-color-theme.json"
+      },
+      {
+        "label": "RL B Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/b-color-theme.json"
+      },
+      {
+        "label": "RL C Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/c-color-theme.json"
+      },
+      {
+        "label": "RL D Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/d-color-theme.json"
+      },
+      {
+        "label": "RL E Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/e-color-theme.json"
+      },
+      {
+        "label": "RL F Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/f-color-theme.json"
+      },
+      {
+        "label": "RL G Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/g-color-theme.json"
+      },
+      {
+        "label": "RL H Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/h-color-theme.json"
       }
     ]
   }
